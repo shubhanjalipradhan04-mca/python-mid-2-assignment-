@@ -1,0 +1,19 @@
+{
+    "books": {
+        "b1": {
+            "title": "hindi",
+            "author": "shubhi",
+            "status": "Available",
+            "issued_to": null,
+            "due_date": null
+        },
+        "b2": {
+            "title": "english",
+            "author": "parul",
+            "status": "Available",
+            "issued_to": null,
+            "due_date": null
+        }
+    },
+    "users": {}
+}

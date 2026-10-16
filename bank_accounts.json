@@ -1,0 +1,27 @@
+{
+    "544": {
+        "pin": "1111",
+        "type": "Saving",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "21": {
+        "pin": "2222",
+        "type": "Saving",
+        "balance": 1990.0,
+        "transactions": [
+            {
+                "timestamp": "2026-10-14 12:20:54",
+                "type": "Deposit",
+                "amount": 2000.0,
+                "balance": 2000.0
+            },
+            {
+                "timestamp": "2026-10-14 12:21:17",
+                "type": "Withdrawal",
+                "amount": 10.0,
+                "balance": 1990.0
+            }
+        ]
+    }
+}
